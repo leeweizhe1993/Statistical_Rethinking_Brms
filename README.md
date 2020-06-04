@@ -1,6 +1,6 @@
 # Statistical_Rethinking_Brms
 This is a Chinese version of the Statistical Rethinking examples, originally published by Solomon Kurz.
-For more information about the English Version, Please visit [HERE](https://bookdown.org/content/3890/).
+For more information about the English Version, Please visit [HERE](https://bookdown.org/content/3890/).  
 For more information about *Statistical Rethinking*, please visit [HERE](https://xcelab.net/rm/statistical-rethinking/)
 
 Below is the running info:
