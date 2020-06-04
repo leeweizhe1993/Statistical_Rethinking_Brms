@@ -1,7 +1,9 @@
 # Statistical_Rethinking_Brms
 This is a Chinese version of the Statistical Rethinking examples, originally published by Solomon Kurz.  
 For more information about the English Version, Please visit [HERE](https://bookdown.org/content/3890/).  
-For more information about *Statistical Rethinking*, please visit [HERE](https://xcelab.net/rm/statistical-rethinking/)
+For more information about *Statistical Rethinking*, please visit [HERE](https://xcelab.net/rm/statistical-rethinking/).  
+For more information about `brms`, please visit [HERE](https://github.com/paul-buerkner/brms).
+
 
 Below is the running info:  
 R version 3.6.2 (2019-12-12)  
